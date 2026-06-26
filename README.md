@@ -1,5 +1,11 @@
 # Zephyr Metagenomic Biosurveillance Analysis
 
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Oxford%20Nanopore-5C2D91)
+![Workflow](https://img.shields.io/badge/Workflow-Metagenomic%20Biosurveillance-2E8B57)
+![License](https://img.shields.io/badge/License-Work%20Test-lightgrey)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 **Candidate:** Mitali Raj
 
 **Time Taken:** ~4 hours
