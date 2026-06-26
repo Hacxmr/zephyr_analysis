@@ -1,0 +1,14 @@
+virus,reference,genome_length,covered_bases,coverage_breadth,mean_depth
+Rhinovirus-A,NC_001617.1,7152,7152,100.0,251640.004
+Rhinovirus-B,NC_009996.1,7099,7032,99.06,11997.458
+SARS-CoV-2,MN908947.3,29903,27516,92.02,687.588
+Metapneumovirus,NC_004148.2,13335,9342,70.06,135.101
+RSV-A,NC_038235.1,15222,0,0.0,0.0
+Influenza-B,NC_002023.1,2341,0,0.0,0.0
+Influenza-A,NC_007373.1,2341,0,0.0,0.0
+RSV-B,NC_001803.1,15191,0,0.0,0.0
+Parainfluenza-1,NC_003461.1,15600,0,0.0,0.0
+Parainfluenza-2,NC_003462.2,9332,0,0.0,0.0
+Parainfluenza-3,NC_001796.2,15462,0,0.0,0.0
+Parainfluenza-4,NC_001798.2,154675,0,0.0,0.0
+Adenovirus-C,NC_001405.1,35937,0,0.0,0.0

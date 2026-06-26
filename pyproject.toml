@@ -1,0 +1,30 @@
+[project]
+name = "zephyr-analysis"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "biopython>=1.87",
+    "matplotlib>=3.11.0",
+    "numpy>=2.4.6",
+    "openpyxl>=3.1.5",
+    "pandas>=3.0.3",
+    "plotly>=6.8.0",
+    "pyarrow>=24.0.0",
+    "requests>=2.34.2",
+    "rich>=15.0.0",
+    "scikit-learn>=1.9.0",
+    "scipy>=1.17.1",
+    "tabulate>=0.10.0",
+    "tqdm>=4.68.3",
+]
+
+[dependency-groups]
+dev = [
+    "black>=26.5.1",
+    "ipykernel>=7.3.0",
+    "jupyter>=1.1.1",
+    "pytest>=9.1.1",
+    "ruff>=0.15.20",
+]

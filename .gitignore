@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python version (optional)
+.python-version
+
+# IDEs
+.vscode/
+.idea/
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Python caches
+.pytest_cache/
+.mypy_cache/
+.cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Coverage
+.coverage
+htmlcov/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Alignment outputs
+results/*.sam
+results/*.bam
+results/*.bai
+results/minimap2.log
+
+
+# Zephyr datasets
+data/*.respiratory.fasta.gz
